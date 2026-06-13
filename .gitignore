@@ -1,0 +1,11 @@
+# Notes — kept local, not pushed
+notes/
+
+# OS junk (you're on Windows)
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
